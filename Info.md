@@ -3,7 +3,7 @@
 Name:
 Semester:
 Faculty:
-College:
+College:sads
 
 # Additional
 What are you most interested about this event?
